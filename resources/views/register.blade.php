@@ -19,6 +19,14 @@
         <input type="radio" name="Gender" value="Laki-laki">Laki-laki
         <input type="radio" name="Gender" value="Perempuan">Perempuan<br>
 
+        Nama Siswa: <br>
+        <input type="text" name="NamaSiswa"><br>
+        Rombel: <br>
+        <input type="text" name="Rombel"><br>
+        NIS: <br>
+        <input type="text" name="NIS"><br>
+
+
         <input type="submit" value="Register">
     </form>
 

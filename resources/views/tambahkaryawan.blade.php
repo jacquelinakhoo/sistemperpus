@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>tambahpetugas</title>
-</head>xml_error_string
+    <title>tambah Karyawan</title>
+</head>
 <body>
     <h1>Tambah Karyawan</h1>
     <form action="/tambah/karyawan" method="post">
@@ -24,7 +24,6 @@
         <input type="text" name="NoTelp_K"><br>
         SesiKerja:<br>
         <input type="text" name="SesiKerja"><br>
-        Jabatan:<br>
         Jabatan:<br>
         <select name="Jabatan">
             <option value="">-Pilih-</option>
